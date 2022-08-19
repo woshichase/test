@@ -14,7 +14,6 @@ def x_power_n (x,n):
         else:
             return (1/s)
 
-#12
 if __name__ == '__main__':
     print(x_power_n(3, 3))
     print(x_power_n(3, 0))
